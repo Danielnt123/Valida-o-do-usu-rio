@@ -1,2 +1,1 @@
-# Valida-o-do-usu-rio
-Esse projeto em Python simula um sistema completo de autenticação para a biblioteca da EREM Dr. Jaime Monteiro.
+Esse projeto em Python simula um sistema completo de autenticação para a biblioteca da EREM Dr. Jaime Monteiro. O programa possui funcionalidades de cadastro, login e recuperação de senha diretamente no terminal, utilizando validações de e-mail, telefone e senha para garantir maior segurança e organização dos dados. Além disso, o sistema apresenta menus interativos, ocultação de senha com a biblioteca getpass e estrutura modular para facilitar manutenção e expansão futura do código.
